@@ -1,0 +1,22 @@
+{
+  "name": "gymnasiearbete-teknik",
+  "version": "0.0.1",
+  "description": "Ett gymnasiearbete",
+  "main": "./server/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syrupsnob/Gymnasiearbete-Teknik.git"
+  },
+  "author": "Sebastian Nielsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syrupsnob/Gymnasiearbete-Teknik/issues"
+  },
+  "homepage": "https://github.com/syrupsnob/Gymnasiearbete-Teknik#readme",
+  "dependencies": {
+    "npm": "^5.6.0"
+  }
+}

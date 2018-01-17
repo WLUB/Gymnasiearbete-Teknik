@@ -1,3 +1,3 @@
 /**
-	Main client file
+	Main client script
 */
